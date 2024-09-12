@@ -7,3 +7,9 @@ b.  Product Owner – Sets direction for the team, handles release management an
 c.  spring planning: Determine what to complete in the coming sprint, Move stories in sprint scope from backlog to current sprint
     daily scrum: Team members discuss work completed, work plan for the day and any blockers
     sprint retrospective: Discuss work complete and move incomplete work to backlog
+
+d. 
+  epic - Captures a large body of work that can be broken down into several smaller stories
+  Story -  A software system requirement that is expressed in a few short sentences.
+  bug - smallest unit of work, can block stories
+  task - step in a process
