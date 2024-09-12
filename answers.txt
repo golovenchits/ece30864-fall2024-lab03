@@ -3,3 +3,7 @@ a.  Pros: fast and efficient development, keep track of all issues.
 
 b.  Product Owner – Sets direction for the team, handles release management and stakeholder management.
     Scrum Master - All scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
+
+c.  spring planning: Determine what to complete in the coming sprint, Move stories in sprint scope from backlog to current sprint
+    daily scrum: Team members discuss work completed, work plan for the day and any blockers
+    sprint retrospective: Discuss work complete and move incomplete work to backlog
