@@ -1,0 +1,2 @@
+a.  Pros: fast and efficient development, keep track of all issues. 
+    Cons: requires special training to use jira, need to hire jira manager to handle scrums
