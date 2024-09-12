@@ -1,2 +1,5 @@
 a.  Pros: fast and efficient development, keep track of all issues. 
     Cons: requires special training to use jira, need to hire jira manager to handle scrums
+
+b.  Product Owner – Sets direction for the team, handles release management and stakeholder management.
+    Scrum Master - All scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
